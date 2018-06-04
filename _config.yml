@@ -16,6 +16,6 @@ baseurl:
 url: 
 twitter_username: bloobop
 markdown: kramdown
-theme: '"eli-theme"'
+theme: eli-theme
 plugins:
 - jekyll-feed
