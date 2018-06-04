@@ -1,5 +1,6 @@
 ---
 title: About
+description: What this is all about.
 layout: page
 ---
 
