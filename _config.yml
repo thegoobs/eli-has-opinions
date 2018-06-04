@@ -1,0 +1,21 @@
+---
+title: Eli Has Opinions
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+subtitle: Writing about whatever, mane.
+email: bloobop606@gmail.com
+description: Eli Has Opinions is a blog for Eli Schoolar, giving his take on media
+  content that has impacted his life and wants to share with the internet.
+baseurl: 
+url: 
+twitter_username: bloobop
+markdown: kramdown
+theme: eli-theme
+plugins:
+- jekyll-feed
