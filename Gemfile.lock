@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/thegoobs/eli-theme.git
+  revision: 4cfdd179723f933c42fd1745a5318f8a885b8e92
+  specs:
+    eli-theme (0.1.0)
+      jekyll (~> 3.7)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -5,8 +12,6 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
-    eli-theme (0.1.0)
-      jekyll (~> 3.7)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -61,7 +66,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  eli-theme
+  eli-theme!
   jekyll (~> 3.7.2)
   jekyll-feed (~> 0.6)
   tzinfo-data
