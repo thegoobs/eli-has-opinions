@@ -25,7 +25,7 @@ twitter_username: bloobop
 
 # Build settings
 markdown: kramdown
-theme: eli-theme
+theme: "eli-theme"
 plugins:
   - jekyll-feed
 
