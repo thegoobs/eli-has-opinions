@@ -1,6 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Index
 layout: default
 ---
+
+# Howdy,
+
+My name is Eli, and this is my blog. Feel free to take a look at what I have to say about anything and everything that comes to mind.
