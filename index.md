@@ -1,5 +1,6 @@
 ---
 title: Index
+post-index: true
 layout: home
 ---
 
