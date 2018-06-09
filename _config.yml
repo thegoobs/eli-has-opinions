@@ -2,6 +2,9 @@
 title: Eli Has Opinions
 timezone: UTC
 collections:
+  associates:
+    title: Associates
+    output: true
   posts:
     title: Posts
     output: true
